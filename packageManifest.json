@@ -1,0 +1,17 @@
+{
+  "packageName": "Decent DE1",
+  "author": "Zac Shenker",
+  "version": "1.0",
+  "minimumHEVersion": "0.0",
+  "dateReleased": "2025-12-24",
+  "drivers": [
+    {
+      "id": "eed44b85-a3eb-4929-a773-814f8726cfe0",
+      "name": "Decent DE1",
+      "namespace": "community",
+      "location": "https://raw.githubusercontent.com/zshenker/hubitat-decent/refs/heads/main/hubitat-decent.groovy",
+      "required": false,
+      "version": "1.0"
+    }
+  ]
+}
