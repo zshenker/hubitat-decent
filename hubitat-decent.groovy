@@ -5,7 +5,7 @@
  * https://github.com/randomcoffeesnob/decent-advanced-rest-api
  */
 metadata {
-    definition(name: "Decent DE1", namespace: "community", author: "Community", importUrl: "https://raw.githubusercontent.com/hubitat/HubitatPublic/master/examples/drivers/httpGetSwitch.groovy") {
+    definition(name: "Decent DE1", namespace: "community", author: "Community", importUrl: "https://raw.githubusercontent.com/zshenker/hubitat-decent/refs/heads/main/hubitat-decent.groovy") {
         capability "Actuator"
         capability "Switch"
         capability "Sensor"
